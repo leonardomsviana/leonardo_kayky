@@ -1,0 +1,25 @@
+.marg {
+
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.text {
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: black;
+    align-items: justify;
+    text-align: justify;
+}
+
+.titulo{
+
+    font-size: 22px;
+    font-weight: bolder;
+}
